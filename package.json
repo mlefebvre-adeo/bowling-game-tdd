@@ -1,0 +1,20 @@
+{
+  "name": "bowling-game-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest src --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlefebvre-adeo/bowling-game-tdd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mlefebvre-adeo/bowling-game-tdd/issues"
+  },
+  "homepage": "https://github.com/mlefebvre-adeo/bowling-game-tdd#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
