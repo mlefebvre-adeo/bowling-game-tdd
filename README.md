@@ -4,12 +4,6 @@ A bowling game consists of 10 frames.
 
 In each frame, the player has two opportunities to knock down 10 pins.
 
-
-
-The game consists of 10 frames. 
-
-In each frame the player has two opportunities to knock down 10 pins. 
-
 The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
 
 A spare is when the player knocks down all 10 pins in two tries.
